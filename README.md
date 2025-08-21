@@ -1,6 +1,6 @@
 # Resume Generator
 
-A lightweight tool to generate polished resumes from templates using Pandoc. Can export to PDF, HTML, and DOCX.
+A lightweight tool to generate polished resumes from templates using Pandoc. Can export to PDF, HTML, and DOCX and stlyed using CSS. These resumes should be ATS-friendly as a PDF, but DOCX will be more readable. HTML is a intermediary format that can be used for inspection with styling, but is not intended for final submission.
 
 ## Prerequisites
 - [Make](https://www.gnu.org/software/make/)
@@ -36,3 +36,12 @@ The `/applications` directory is for creating resumes for particular jobs. Each 
 - Example:
   - Build a resume for a Software Engineer role:
     - `make all RESUME_DIR=applications/software-engineer-2025`
+
+
+## Styling
+
+The PDF and HTML files are styled using CSS. The `stlye.css` file is located in the root directory and can be edited to change the styling of the generated files. This style is applied to all generated files regardless of application.
+
+## Contributing
+
+If you want to use this, please clone or fork. Any suggestions to the architecture of the project are welcome, but the contents and styles of the resume are for my usage.
