@@ -1,7 +1,7 @@
 # ISAAC POOLE
 ## Full Stack Software Engineer
 
-### CONTACT INFORMATION
+### CONTACT
 
 Email: **isaac.f.poole@gmail.com** | Phone: **(502) 220-8265** | Location: **Ann Arbor, MI, United States**
 
