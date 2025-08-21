@@ -7,11 +7,11 @@ Email: **isaac.f.poole@gmail.com** | Phone: **(502) 220-8265** | Location: **Ann
 
 LinkedIn: **https://www.linkedin.com/in/isaacpoole** | GitHub: **https://github.com/isfopo** | Website: **https://isfopo.github.io/about**
 
-### PROFESSIONAL SUMMARY
+### SUMMARY
 
 Experienced Full Stack Software Engineer with 4+ years in software development, specializing in building engaging products and maintainable code. A background in music enhances my creativity and innovative problem-solving skills, while my growth mindset and adaptability enable me to navigate evolving project requirements and technological shifts. I excel in collaborative teamwork, leveraging communication and empathy to align with stakeholders and users' needs,  consistently prioritizing time management to deliver high-quality results efficiently and sustainably.
 
-### CORE COMPETENCIES
+### SKILLS
 
 #### Languages & Frameworks:
 
@@ -29,7 +29,7 @@ Git | GitHub Actions | Cloudflare Workers | Stripe | Playwright (E2E Testing) | 
 
 Object-Oriented Programming (OOP) | Cross-Browser Compatibility | Performance Optimization | Code Splitting | CI/CD Deployment | DRY Principles | Agile Methodology | Domain-Driven Design (DDD) | Documentation | Responsive Design | UI/UX Intuition
 
-### PROFESSIONAL EXPERIENCE
+### EXPERIENCE
 
 #### Software Engineer
 Switcher Studio | Remote | May 2021 - August 2025
@@ -61,7 +61,7 @@ Code Louisville / Jefferson Community and Technical College | 2019-2021
 
 University of Louisville | 2010-2015
 
-### NOTABLE PROJECTS
+### PROJECTS
 
 #### SoniScribe - React Single Page Application
 
