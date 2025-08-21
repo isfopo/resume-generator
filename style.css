@@ -1,3 +1,7 @@
+:root {
+    font-family: "Times New Roman", serif;
+}
+
 @page {
     size: A4;
     margin: 8px 16px;
@@ -5,13 +9,8 @@
     @top-right {
         content: counter(page) " / " counter(pages);
         top: -12px;
-        font-family: Calibri;
         font-size: 9px;
     }
-}
-
-body {
-    font-family: Calibri;
 }
 
 h1 {
