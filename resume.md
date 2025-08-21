@@ -9,17 +9,17 @@ LinkedIn: **https://www.linkedin.com/in/isaacpoole** | GitHub: **https://github.
 
 ### SUMMARY
 
-Experienced Full Stack Software Engineer with 4+ years in software development, specializing in building engaging products and maintainable code. A background in music enhances my creativity and innovative problem-solving skills, while my growth mindset and adaptability enable me to navigate evolving project requirements and technological shifts. I excel in collaborative teamwork, leveraging communication and empathy to align with stakeholders and users' needs,  consistently prioritizing time management to deliver high-quality results efficiently and sustainably.
+Experienced Full Stack Software Engineer with 4+ years in software development, specializing in building engaging products and maintainable code. A background in music enhances my creativity and innovative problem-solving skills, while a growth mindset and adaptability enable me to navigate evolving project requirements and technological shifts. Excels in collaborative teamwork, leveraging communication and empathy to align with stakeholders and users' needs, consistently prioritizing time management to deliver high-quality results efficiently and sustainably.
 
 ### SKILLS
 
 #### Languages & Frameworks:
 
-TypeScript | JavaScript (ES6+) | React | C#/.NET | Python | Svelte | React Native | HTTPS | CSS | SCSS/Sass | YAML | Markdown | JSON
+TypeScript | JavaScript (ES6+) | React | C#/.NET | Python | Svelte | React Native | HTML | CSS | SCSS/Sass | YAML | Markdown | JSON
 
 #### Web Technologies:
 
-RESTful APIs | WebSockets | Vite | Redux | Context API | Webpack | Redis Caching (NoSQL) | React Router | MSSQL | SQLite | Fetch API | Serverless Functions
+RESTful APIs | WebSockets | Vite | Redux | Context API | HTTPS |  Webpack | Redis Caching (NoSQL) | React Router | MSSQL | SQLite | Fetch API | Serverless Functions
 
 #### Tools & Platforms:
 
