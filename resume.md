@@ -19,15 +19,15 @@ TypeScript | JavaScript (ES6+) | React | C#/.NET | Python | Svelte | React Nativ
 
 #### Web Technologies:
 
-RESTful APIs | WebSockets | Vite | Redux | Context API | HTTPS | CSS | SCSS/Sass | JSON | Webpack | Redis Caching | React Router | MSSQL | SQLite
+RESTful APIs | WebSockets | Vite | Redux | Context API | HTTPS | CSS | SCSS/Sass | JSON | Webpack | Redis Caching (NoSQL) | React Router | MSSQL | SQLite | Fetch API | Serverless Functions
 
 #### Tools & Platforms:
 
-Git | GitHub Actions | Cloudflare Workers | Stripe | Playwright | Cloudflare | NodeJS | Chrome Developer Tools | Copilot | Analytics Integration | i18n | JWT Authentication | Tailwind CSS | Shaka Player | Rollbar | Segment | Looker Studio | Google Analytics | Storybook | Shadcn/UI
+Git | GitHub Actions | Cloudflare Workers | Stripe | Playwright (E2E Testing) | Cloudflare | NodeJS | Chrome Developer Tools | Copilot | Analytics Integration | i18n | JWT Authentication | Tailwind CSS | Shaka Player | Rollbar Logging | Segment Metrics | Looker Studio | Google Analytics | Storybook | Shadcn/UI | npm
 
 #### Development Techniques:
 
-Object-Oriented Programming (OOP) | Cross-Browser Compatibility | Performance Optimization | Code Splitting | CI/CD Deployment | DRY Principles | Agile Methodology | Domain-Driven Design (DDD) | Documentation
+Object-Oriented Programming (OOP) | Cross-Browser Compatibility | Performance Optimization | Code Splitting | CI/CD Deployment | DRY Principles | Agile Methodology | Domain-Driven Design (DDD) | Documentation | Responsive Design | UI/UX Intuition
 
 ### PROFESSIONAL EXPERIENCE
 
