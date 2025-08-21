@@ -45,7 +45,7 @@ Switcher Studio | Remote | May 2021 - August 2025
 - Created a complete SaaS video platform spanning frontend React applications, backend API services, payment processing, analytics systems, and user management - enabling creators to monetize and distribute video content at scale.
 
 #### Head Guitar Technician / Audio Equipment Retail Associate
-Doo Wop Shop | February 2015 - March 2020
+Doo Wop Shop | Louisville, KY | February 2015 - March 2020
 
 - Translated diverse customer needs into technical solutions through clear communication and systems thinking.
 

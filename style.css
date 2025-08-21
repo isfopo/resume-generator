@@ -3,10 +3,10 @@
     margin: 8px 16px;
 
     @top-right {
+        content: counter(page) " / " counter(pages);
+        top: -12px;
         font-family: Calibri;
         font-size: 9px;
-        margin: 0;
-        content: counter(page) " / " counter(pages);
     }
 }
 
@@ -17,11 +17,12 @@ body {
 h1 {
     font-size: 18px;
     margin-top: 0;
-    margin-bottom: 4px;
+    margin-bottom: 2px;
 }
 
 h2 {
-    font-size: 14px;
+    font-size: 13px;
+    font-weight: 200;
     margin: 0;
 }
 
