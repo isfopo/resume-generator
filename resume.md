@@ -15,11 +15,11 @@ Experienced Full Stack Software Engineer with 4+ years in software development, 
 
 #### Languages & Frameworks:
 
-TypeScript | JavaScript (ES6+) | React | C#/.NET | Python | Svelte | React Native | HTTPS | CSS | SCSS/Sass
+TypeScript | JavaScript (ES6+) | React | C#/.NET | Python | Svelte | React Native | HTTPS | CSS | SCSS/Sass | YAML | Markdown | JSON
 
 #### Web Technologies:
 
-RESTful APIs | WebSockets | Vite | Redux | Context API | JSON | Webpack | Redis Caching (NoSQL) | React Router | MSSQL | SQLite | Fetch API | Serverless Functions
+RESTful APIs | WebSockets | Vite | Redux | Context API | Webpack | Redis Caching (NoSQL) | React Router | MSSQL | SQLite | Fetch API | Serverless Functions
 
 #### Tools & Platforms:
 
