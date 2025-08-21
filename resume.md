@@ -51,6 +51,16 @@ Doo Wop Shop | Louisville, KY | February 2015 - March 2020
 
 - Applied hands-on audio troubleshooting skills to diagnose and resolve complex technical issues.
 
+### EDUCATION
+
+#### Certificate in Full-stack Development / Computer Programming
+
+Code Louisville / Jefferson Community and Technical College | 2019-2021
+
+#### Bachelor's Degree in Music Performance
+
+University of Louisville | 2010-2015
+
 ### NOTABLE PROJECTS
 
 #### SoniScribe - React Single Page Application
@@ -74,16 +84,6 @@ Doo Wop Shop | Louisville, KY | February 2015 - March 2020
 - Implemented advanced .env file parsing with support for grouped configurations, preset values, boolean toggles, and comment-based metadata extraction.
 
 - Designed TypeScript-based architecture with custom tree item classes, command registration system, and automated publishing pipeline to VS Code Marketplace.
-
-### EDUCATION
-
-#### Certificate in Full-stack Development / Computer Programming
-
-Code Louisville / Jefferson Community and Technical College | 2019-2021
-
-#### Bachelor's Degree in Music Performance
-
-University of Louisville | 2010-2015
 
 <!--
 ### VOLUNTEER EXPERIENCE
