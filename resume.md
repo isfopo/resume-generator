@@ -23,7 +23,7 @@ RESTful APIs | WebSockets | Vite | Redux | Context API | Webpack | Redis Caching
 
 #### Tools & Platforms:
 
-Git | GitHub Actions | Cloudflare Workers | Stripe | Playwright (E2E Testing) | Cloudflare | NodeJS | Chrome Developer Tools | Copilot | Analytics Integration | i18n | JWT Authentication | Tailwind CSS | Shaka Player | Rollbar Logging | Segment Metrics | Looker Studio | Google Analytics | Storybook | Shadcn/UI | npm | visx (D3 Data Visualization)
+Git | GitHub Actions | Cloudflare Workers | Stripe | Playwright (E2E Testing) | Cloudflare | NodeJS | Chrome Developer Tools | Copilot | Analytics Integration | i18n | JWT Authentication | Tailwind CSS | Shaka Player | Rollbar Logging | Segment Metrics | Looker Studio | Google Analytics | Storybook | Shadcn/UI | NPM | D3 Data Visualization
 
 #### Development Techniques:
 
@@ -42,7 +42,7 @@ Switcher Studio | Remote | May 2021 - August 2025
 
 - Overhauled user experiences with responsive modal systems, enhanced onboarding flows, Google Fonts integration, improved accessibility, and modern design patterns throughout the dashboard and player interfaces.
 
-- Created a complete SaaS video platform spanning frontend React applications, backend API services, payment processing, analytics systems, and user management - enabling creators to monetize and distribute video content at scale.
+- Created a SaaS video platform spanning frontend React applications, backend API services, payment processing, analytics systems, and user management - enabling creators to monetize and distribute video content at scale.
 
 #### Head Guitar Technician / Audio Equipment Retail Associate
 Doo Wop Shop | Louisville, KY | February 2015 - March 2020
