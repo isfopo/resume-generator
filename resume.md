@@ -34,11 +34,15 @@ Object-Oriented Programming (OOP) | Cross-Browser Compatibility | Performance Op
 #### Software Engineer
 Switcher Studio | Remote | May 2021 - August 2025
 
-- Built a livestream modal wizard with step-by-step configuration, real-time speed testing for quality optimization, and seamless YouTube/Facebook/Twitch integrations that transformed how users create and configure livestreams
+- Built a comprehensive media player with casting (Google Cast/AirPlay), dynamic quality controls, responsive design, and extensive internationalization support. Transformed basic video playback into a feature-rich streaming experience.
 
-- Revitalized the Stripe-based subscription management system including payment processing, pause/resume subscription functionality, and billing analytics that enabled Switcher Studio's core monetization features
+- Developed end-to-end monetization systems including Stripe integration, gated content, subscription management with pause/resume capabilities, billing portals, and automated revenue processing across the entire platform.
 
-- Integrated Chromecast and AirPlay casting functionality for the embedded video player with enhanced, custom media controls and cross-platform optimization that improved end-user viewing experience
+- Redesigned livestream creation with wizard-based flows, multi-platform streaming (YouTube/Twitch/Facebook), video library management, and streamlined content organization tools for creators.
+
+- Overhauled user experiences with responsive modal systems, enhanced onboarding flows, Google Fonts integration, improved accessibility, and modern design patterns throughout the dashboard and player interfaces.
+
+- Created a complete SaaS video platform spanning frontend React applications, backend API services, payment processing, analytics systems, and user management - enabling creators to monetize and distribute video content at scale.
 
 #### Head Guitar Technician / Audio Equipment Retail Associate
 Doo Wop Shop | February 2015 - March 2020
