@@ -23,7 +23,7 @@ RESTful APIs | WebSockets | Vite | Redux | Context API | HTTPS | CSS | SCSS/Sass
 
 #### Tools & Platforms:
 
-Git | GitHub Actions | Cloudflare Workers | Stripe | Playwright (E2E Testing) | Cloudflare | NodeJS | Chrome Developer Tools | Copilot | Analytics Integration | i18n | JWT Authentication | Tailwind CSS | Shaka Player | Rollbar Logging | Segment Metrics | Looker Studio | Google Analytics | Storybook | Shadcn/UI | npm
+Git | GitHub Actions | Cloudflare Workers | Stripe | Playwright (E2E Testing) | Cloudflare | NodeJS | Chrome Developer Tools | Copilot | Analytics Integration | i18n | JWT Authentication | Tailwind CSS | Shaka Player | Rollbar Logging | Segment Metrics | Looker Studio | Google Analytics | Storybook | Shadcn/UI | npm | visx (D3 Data Visualization)
 
 #### Development Techniques:
 
