@@ -55,25 +55,25 @@ Doo Wop Shop | February 2015 - March 2020
 
 #### SoniScribe - React Single Page Application
 
-- Built modern audio transcription tool using React, TypeScript, and Peaks.js with advanced waveform visualization, segment management, and keyboard shortcuts
+- Built modern audio transcription tool using React, TypeScript, and Peaks.js with advanced waveform visualization, segment management, and keyboard shortcuts.
 
-- Implemented File System API integration for direct browser-based project persistence with drag-and-drop handling and multi-project management capabilities
+- Implemented File System API integration for direct browser-based project persistence with drag-and-drop handling and multi-project management capabilities.
 
 #### Live Remote - Python Server Script and Svelte Application
 
-- Built wireless remote control system for Ableton Live DAW using a Python Remote Script and TypeScript/Svelte web interface
+- Built remote control system for Ableton Live DAW using a Python Remote Script and TypeScript/Svelte web interface.
 
-- Implemented custom WebSocket/HTTP servers with SSL/TLS security for real-time communication between Live API and connected devices
+- Implemented custom WebSocket/HTTP servers with SSL/TLS security for real-time communication between Live API and connected devices.
 
-- Created responsive web UI with customizable widget grid, theme support, and multi-device client authentication
+- Created responsive web UI with customizable widget grid, theme support, and multi-device client authentication.
 
 #### Environments - VS Code Extension
 
-- Developed VS Code extension for managing environment variables with intuitive tree view interface in both sidebar and explorer panels
+- Developed VS Code extension for managing environment variables with intuitive tree view interface in both sidebar and explorer panels.
 
-- Implemented advanced .env file parsing with support for grouped configurations, preset values, boolean toggles, and comment-based metadata extraction
+- Implemented advanced .env file parsing with support for grouped configurations, preset values, boolean toggles, and comment-based metadata extraction.
 
-- Designed TypeScript-based architecture with custom tree item classes, command registration system, and automated publishing pipeline to VS Code Marketplace
+- Designed TypeScript-based architecture with custom tree item classes, command registration system, and automated publishing pipeline to VS Code Marketplace.
 
 ### EDUCATION
 
