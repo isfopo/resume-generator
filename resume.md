@@ -59,7 +59,7 @@ Doo Wop Shop | February 2015 - March 2020
 
 - Implemented File System API integration for direct browser-based project persistence with drag-and-drop handling and multi-project management capabilities.
 
-#### Live Remote - Python Server Script and Svelte Application
+#### Live Remote - Python Server and Svelte Application
 
 - Built remote control system for Ableton Live DAW using a Python Remote Script and TypeScript/Svelte web interface.
 
