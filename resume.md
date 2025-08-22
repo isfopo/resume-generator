@@ -19,7 +19,7 @@ TypeScript | JavaScript (ES6+) | React | C#/.NET | Entity Framework | Python | S
 
 #### Web Technologies:
 
-RESTful APIs | WebSockets | Vite | Redux | Context API | HTTPS |  Webpack | Redis Caching (NoSQL) | React Router | MSSQL | SQLite | Fetch API | Serverless Functions
+RESTful APIs | WebSockets | Vite | Redux | Context API | HTTPS | Webpack | Redis Caching (NoSQL) | React Router | MSSQL | SQLite | Fetch API | Serverless Functions
 
 #### Tools & Platforms:
 
