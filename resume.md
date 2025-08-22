@@ -27,7 +27,7 @@ Git | GitHub Actions | Cloudflare Workers | Stripe | Playwright (E2E Testing) | 
 
 #### Development Techniques:
 
-Object-Oriented Programming (OOP) | Cross-Browser Compatibility | Performance Optimization | Code Splitting | CI/CD Deployment | DRY Principles | Agile Methodology | Domain-Driven Design (DDD) | Documentation | Responsive Design | UI/UX Intuition
+Object-Oriented Programming (OOP) | Design Patterns | Cross-Browser Compatibility | Performance Optimization | Code Splitting | CI/CD Deployment | DRY Principles | Agile Methodology | Domain-Driven Design (DDD) | Documentation | Responsive Design | UI/UX Intuition
 
 ### EXPERIENCE
 
