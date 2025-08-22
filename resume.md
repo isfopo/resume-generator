@@ -15,7 +15,7 @@ Experienced Full Stack Software Engineer with 4+ years in software development, 
 
 #### Languages & Frameworks:
 
-TypeScript | JavaScript (ES6+) | React | C#/.NET | Python | Svelte | React Native | HTML | CSS | SCSS/Sass | YAML | Markdown | JSON
+TypeScript | JavaScript (ES6+) | React | C#/.NET | Entity Framework | Python | Svelte | React Native | HTML | CSS | SCSS/Sass | YAML | Markdown | JSON
 
 #### Web Technologies:
 
