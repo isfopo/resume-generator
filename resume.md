@@ -1,4 +1,4 @@
-# ISAAC POOLE
+# Isaac Poole
 ## Full Stack Software Engineer
 
 ### CONTACT
@@ -15,7 +15,7 @@ Experienced Full Stack Software Engineer with 4+ years in software development, 
 
 #### Languages & Frameworks:
 
-TypeScript | JavaScript (ES6+) | React | C#/.NET | Entity Framework | Python | Svelte | React Native | HTML | CSS | SCSS/Sass | YAML | Markdown | JSON
+TypeScript | JavaScript (ES6+) | React | NodeJS | C#/.NET | Entity Framework | Python | Svelte | React Native | HTML | CSS | SCSS/Sass | YAML | Markdown | JSON
 
 #### Web Technologies:
 
@@ -23,7 +23,7 @@ RESTful APIs | WebSockets | Vite | Redux | Context API | HTTPS | Webpack | Redis
 
 #### Tools & Platforms:
 
-Git | GitHub Actions | Cloudflare Workers | Stripe | Playwright (E2E Testing) | Cloudflare | NodeJS | Chrome Developer Tools | Copilot | Analytics Integration | i18n | JWT Authentication | Tailwind CSS | Shaka Player | Rollbar Logging | Segment Metrics | Looker Studio | Google Analytics | Storybook | Shadcn/UI | NPM | D3 Data Visualization
+Git | GitHub Actions | Cloudflare Workers | Stripe | Playwright (E2E Testing) | Cloudflare | Chrome Developer Tools | Copilot | Analytics Integration | i18n | JWT Authentication | Tailwind CSS | Shaka Player | Rollbar Logging | Segment Metrics | Looker Studio | Google Analytics | Storybook | Shadcn/UI | NPM | D3 Data Visualization
 
 #### Development Techniques:
 
