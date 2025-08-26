@@ -2,8 +2,6 @@
 [Your Address]
 [Your Email] | [Your Phone Number] | [Your Github Portfolio]
 
-[Today's Date]
-
 Dear Hiring Team at [Company Name],
 
 [Body]

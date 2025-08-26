@@ -3,7 +3,7 @@ Dear [Hiring Manager],
 [Email Body]
 
 Sincerely,
-[Your Name]
+[Name]
 
-Github: [Your Github Profile]
-LinkedIn: [Your LinkedIn Profile]
+Github: [Github Profile]
+LinkedIn: [LinkedIn Profile]
